@@ -1,0 +1,29 @@
+{
+	"agcgw_all":{
+		"CN":"connect-drcn.hispace.hicloud.com",
+		"CN_back":"connect-drcn.dbankcloud.cn",
+		"DE":"connect-dre.hispace.hicloud.com",
+		"DE_back":"connect-dre.dbankcloud.cn",
+		"RU":"connect-drru.hispace.hicloud.com",
+		"RU_back":"connect-drru.dbankcloud.cn",
+		"SG":"connect-dra.hispace.hicloud.com",
+		"SG_back":"connect-dra.dbankcloud.cn"
+	},
+	"client":{
+		"cp_id":"2640057000001492708",
+		"product_id":"736430079244868458",
+		"client_id":"594466584483869056",
+		"client_secret":"5A57A4E744F9965A833EA42451C7347C461713B270AE5593E11FC2BEAD631935",
+		"project_id":"736430079244868458",
+		"app_id":"104100189",
+		"api_key":"CgB6e3x9OUx0NGqtUJCpzwR7rxIF0gLkKOD+Q/1c18W1wquc4H88CWhSVZMyLkL19yXH78GS8KGVHdTGhHKpKWP0",
+		"package_name":"com.exampledtse.faceverificationdemo"
+	},
+	"configuration_version":"2.0",
+	"appInfos":[
+		{
+			"package_name":"com.exampledtse.faceverificationdemo",
+			"app_id":"104100189"
+		}
+	]
+}

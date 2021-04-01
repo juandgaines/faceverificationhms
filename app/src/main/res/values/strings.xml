@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Face Verification Demo</string>
+    <string name="reference_image">Take reference pic</string>
+    <string name="compared_image">Take picture to be compared</string>
+</resources>
